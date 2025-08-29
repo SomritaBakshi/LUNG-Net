@@ -7,6 +7,7 @@ distributions and remained stable and consistent. One such split will be made av
 The data will be structured as following -
 
 Data\
+
     Train set\
     Validation set\
     Test set
