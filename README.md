@@ -7,9 +7,9 @@ distributions and remained stable and consistent. One such split will be made av
 The data will be structured as following -
 
 Data\
-  Train set\
-  Validation set\
-  Test set
+    Train set\
+    Validation set\
+    Test set
 
 ## Code
 **Task** - Multi-label classification of 5 ILD patterns on HRCT slices (Consolidation, Emphysema, Fibrosis, GGO, Micro-Nodules).
