@@ -6,9 +6,9 @@ a **training set (95%)** and a **validation set (5%)**. We repeated three such i
 distributions and remained stable and consistent. One such split will be made available upon reasonable request. Additional splits can be reproduced by shuffling and re-splitting the dataset.
 The data will be structured as following -
 Data\
-  Train set
-  Validation set
-  Test set
+  Train set\
+  Validation set\
+  Test set\
 
 ## Code
 **Task** - Multi-label classification of 5 ILD patterns on HRCT slices (Consolidation, Emphysema, Fibrosis, GGO, Micro-Nodules).
