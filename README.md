@@ -8,7 +8,7 @@ The data will be structured as following -
 Data\
   Train set\
   Validation set\
-  Test set\
+  Test set
 
 ## Code
 **Task** - Multi-label classification of 5 ILD patterns on HRCT slices (Consolidation, Emphysema, Fibrosis, GGO, Micro-Nodules).
